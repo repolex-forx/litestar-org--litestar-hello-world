@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-hello-world",
+  "versions": [
+    {
+      "commit": "907643553944c242ba9a50fa8e12baaf3d0253e6",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:48:00.070073+00:00"
+    }
+  ]
+}
